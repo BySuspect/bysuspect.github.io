@@ -13477,15 +13477,6 @@ h3.main-title {
     }
 }
 
-.w3l-header {
-    padding: 20px 0;
-    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.05);
-}
-
-.w3l-header .dropdown-toggle::after {
-    display: none;
-}
-
 .navbar-expand-lg .navbar-nav .dropdown-menu {
     transform: translateX(-50px);
 }
